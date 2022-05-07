@@ -1,25 +1,22 @@
-# Module 2 | Assignment - Wall Street
+# Election_Analysis
+Module 3 Python
+1. Overview of Election Audit:
+The purpose of this excercise is to provide the candidate and county results in a voter election. These results should include total and percentage vote breakdowns, and highlight the winning candidate and county.
 
-##Overview of Project:
-<br>
-    The purpose of the analysis in this challenge is to refactor the code originally created in Module 2, and use it to analyze the stock information in the green_stocks.xlsx (renamed VBC_Challenge) excel file.
+2. Election-Audit Results: 
+- There were 369,711 votes total
+- Number and Percentage of Votes per County:
+    - Jefferson: 10.5% of total votes; 38,855 votes total
+    - Denver: 82.8% of total votes; 306,055 votes total
+    - Arapahoe: 6.7% of total votes; 24,801 votes total
+- Jefferson County had the largest number of votes (306,055 votes, 82.8% of total vote)
+- Number and Percentage of Votes per Candidate:
+    - Charles Casper Stockham: 23.0% of total votes; 85,213 votes total
+    - Diana DeGette: 73.8% of total votes; 272,892 votes total
+    - Raymon Anthony Doane: 3.1% of total votes; 11,606 votes total
+- Diana DeGette had the largest number of votes (272,892 votes, 73.8% of total vote)
 
-##Results: 
-<br>
-    **2017:**
-    <br>
-    !"C:\Users\baraj\Chal 2- Stock Analysis\Resources\VBA_Challenge_2017.png"
-    !"C:\Users\baraj\Chal 2- Stock Analysis\VBA_Challenge_2017.png"
-    The stock market had a performed well in 2017 (and comparable to 2018). The majority of the results were positive (highlighted in green), with TERP being the only negative result (highlighted in red). 
-
-<br>
-    **2018:**
-    <br>
-    !"C:\Users\baraj\Chal 2- Stock Analysis\Resources\VBA_Challenge_2018.png"
-    !"C:\Users\baraj\Chal 2- Stock Analysis\VBA_Challenge_2018.png"
-    2018 was not a good year for the stock market as the majority of the results were negative (highlighted in red). The two stocks that remained positive were ENPH and RUN (highlighted in green).
-
-<br>
-##Summary: 
-<br>
-        One advantage is that by refactoring code, you save time from having to repeat writing your code. Refactoring your code also makes it run more efficiently. A disadvantage of refactoring code is if you skip testing larger codes it's very plausible that your code may have bugs.
+3. Election-Audit Summary:
+- This script can be used for any election as it effectively captures the requested data points (surveying the candidates and counties by voting totals and percentages). My recommendations to improve this script would be to:
+    - Include a wider spectrum of voter demographics to understand the voter base (i.e. gender, ethnicity, household income, household size, etc.)
+    - Include not only the counties, but also the cities because each city within a county may have different socioeconomic factors that contribute to the vote totals and percentages.
