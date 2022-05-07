@@ -6,14 +6,14 @@
 
 ## Results: 
 <br>
-    **2017:**
+    ** 2017: **
     <br>
     !"C:\Users\baraj\Chal 2- Stock Analysis\Resources\VBA_Challenge_2017.png"
     !"C:\Users\baraj\Chal 2- Stock Analysis\VBA_Challenge_2017.png"
     The stock market had a performed well in 2017 (and comparable to 2018). The majority of the results were positive (highlighted in green), with TERP being the only negative result (highlighted in red). 
 
 <br>
-    **2018:**
+    ** 2018: **
     <br>
     !"C:\Users\baraj\Chal 2- Stock Analysis\Resources\VBA_Challenge_2018.png"
     !"C:\Users\baraj\Chal 2- Stock Analysis\VBA_Challenge_2018.png"
